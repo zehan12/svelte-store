@@ -1,4 +1,6 @@
+<script>
+    import Header from "./components/header/header.svelte";
 
-<div>
-  <h1 class="text-3xl text-center uppercase">app</h1>
-</div>
+</script>
+
+<Header />
