@@ -1,6 +1,6 @@
 <script>
-    import Header from "./components/header/header.svelte";
+    import AppRouting from "./routes/AppRouting.svelte";
 
 </script>
 
-<Header />
+<AppRouting />
