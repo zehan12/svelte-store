@@ -1,0 +1,1469 @@
+{
+    "took": 27,
+    "pageSize": 40,
+    "noOfPage": 5,
+    "maxPage": 50,
+    "count": 180,
+    "page": 1,
+    "data": [
+        {
+            "_id": "645da3c21bf1d31fe2bc9364",
+            "category": {
+                "_id": "6405e37ad1e27517b19662da",
+                "img": null,
+                "link": "/fashion",
+                "name": "Fashion",
+                "namePath": null,
+                "namePathA": [],
+                "slug": "fashion"
+            },
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/0cfb765dcf9f056bf97804587ef90ef2-475887126852.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/333d4a74c5c52337fbf81c25cc43aabe-389032414667.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/6b654e0420215ef9567219c758af3db0-15197423023.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/d427ac9628b597041a151f3f41247ded-145313116116.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/34f91587ff3137bc0e9098562b7c45da-418941280777.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/0cfb765dcf9f056bf97804587ef90ef2-475887126852.JPEG",
+            "isCustomized": false,
+            "mrp": 4257,
+            "name": "White New Women Casual O-Neck Flare Sleeve Back Lace Up Blouse Tops",
+            "price": 3087,
+            "sku": "WhiteNewWomenCasualO-NeckFlareSleeveBackLaceUpBlouseTops-undefined",
+            "slug": "white-new-women-casual-o-neck-flare-sleeve-back-lace-up-blouse-tops",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9348",
+            "category": {
+                "_id": "6405e37ad1e27517b19662da",
+                "img": null,
+                "link": "/fashion",
+                "name": "Fashion",
+                "namePath": null,
+                "namePathA": [],
+                "slug": "fashion"
+            },
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/eb084f3c3f5f26e874333055ba570a99-28124561640.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/d0feacc52e9be7ed092dc2b0914a203b-73004598826.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/631fb57e2fc35ddbaca70e95e3acab82-895798442815.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/7317aa55aa28e0b41f9210f02cd74661-1061559341481.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/c4501430473f809b1e4c0d853349ca40-41293668895.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/eb084f3c3f5f26e874333055ba570a99-28124561640.JPEG",
+            "isCustomized": false,
+            "mrp": 5317,
+            "name": "Black Women V-Neck Strappy Cut Out Long Sleeve Solid Casual T-Shirt Top",
+            "price": 2903,
+            "sku": "BlackWomenV-NeckStrappyCutOutLongSleeveSolidCasualT-ShirtTop-undefined",
+            "slug": "black-women-v-neck-strappy-cut-out-long-sleeve-solid-casual-t-shirt-top",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9369",
+            "category": {
+                "_id": "6405e37ad1e27517b19662da",
+                "img": null,
+                "link": "/fashion",
+                "name": "Fashion",
+                "namePath": null,
+                "namePathA": [],
+                "slug": "fashion"
+            },
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/971dfc80dbca9a125be20b53ea91b31a-1258934123547.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/f0c06b3df6dc47cbd5f0ac0863c232be-113579650287.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/a7efa8d7d5cd55fad8090effc4a15355-992636333323.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/bab00c1d89194bc09f3fd482af1fcba5-1287838088475.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/96a8a7b820cb5846963da9f129a47740-734071839349.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/971dfc80dbca9a125be20b53ea91b31a-1258934123547.JPEG",
+            "isCustomized": false,
+            "mrp": 4223,
+            "name": "Apricot Women Fashion Sexy Slim Keyhole Long Sleeve Solid T-Shirt",
+            "price": 2678,
+            "sku": "ApricotWomenFashionSexySlimKeyholeLongSleeveSolidT-Shirt-undefined",
+            "slug": "apricot-women-fashion-sexy-slim-keyhole-long-sleeve-solid-t-shirt",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9367",
+            "category": {
+                "_id": "6405e37ad1e27517b19662da",
+                "img": null,
+                "link": "/fashion",
+                "name": "Fashion",
+                "namePath": null,
+                "namePathA": [],
+                "slug": "fashion"
+            },
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/3f97c35bd3c7d398e910e047bb2415da-44059846679.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/f0c06b3df6dc47cbd5f0ac0863c232be-1019486478535.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/a7efa8d7d5cd55fad8090effc4a15355-881594709795.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/bab00c1d89194bc09f3fd482af1fcba5-464297629602.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/96a8a7b820cb5846963da9f129a47740-214713615857.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/3f97c35bd3c7d398e910e047bb2415da-44059846679.JPEG",
+            "isCustomized": false,
+            "mrp": 4223,
+            "name": "Wine Red Women Fashion Sexy Slim Keyhole Long Sleeve Solid T-Shirt",
+            "price": 2678,
+            "sku": "WineRedWomenFashionSexySlimKeyholeLongSleeveSolidT-Shirt-undefined",
+            "slug": "wine-red-women-fashion-sexy-slim-keyhole-long-sleeve-solid-t-shirt",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9360",
+            "category": {
+                "_id": "63b7ecc6975b3e01c25cb5ce",
+                "img": null,
+                "link": "/fashion-women",
+                "name": "Women",
+                "namePath": null,
+                "namePathA": [],
+                "slug": "fashion-women"
+            },
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/45abc01917b10dd81931404825f69d3d-1311434595195.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/88074591c2b49ba7cf79965a37758bee-1392219157602.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/cac4e95429e341418df3b0bd4eda6dae-1529162053448.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/43c628c927dfd58217c2b0ef75a04603-970029744693.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/b3c6e6949c7f0b43302acbb9f3e54861-509985174938.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/45abc01917b10dd81931404825f69d3d-1311434595195.JPEG",
+            "isCustomized": false,
+            "mrp": 4384,
+            "name": "Black New Women Casual V-Neck Long Sleeve Solid Lace-up Elbow Patch T-Shirt Top",
+            "price": 3171,
+            "sku": "BlackNewWomenCasualV-NeckLongSleeveSolidLace-upElbowPatchT-ShirtTop-undefined",
+            "slug": "black-new-women-casual-v-neck-long-sleeve-solid-lace-up-elbow-patch-t-shirt-top-en",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9356",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/400f3d4d298a734c0882b3ad7f7c7ee6-204967909133.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/0841a1867a65752eb4c37fec75f25165-592843452726.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/61ba8787c1f20c8d19dcd34b04c357f5-297242349747.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/502be5c92529ede8f9016886972c4d0f-856154669064.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/4b930cb394658ded2156eb6410719e05-1386079134419.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/400f3d4d298a734c0882b3ad7f7c7ee6-204967909133.JPEG",
+            "isCustomized": false,
+            "mrp": 5573,
+            "name": "Black New Women Casual O-Neck Long Sleeve Knit Slim Button Solid Pullover",
+            "price": 3459,
+            "sku": "BlackNewWomenCasualO-NeckLongSleeveKnitSlimButtonSolidPullover-undefined",
+            "slug": "black-new-women-casual-o-neck-long-sleeve-knit-slim-button-solid-pullover",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9368",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/085369ce4bdb0ea48baddbcc95797407-891995985381.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/f0c06b3df6dc47cbd5f0ac0863c232be-606957583955.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/a7efa8d7d5cd55fad8090effc4a15355-431885406073.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/bab00c1d89194bc09f3fd482af1fcba5-471033628633.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/96a8a7b820cb5846963da9f129a47740-1014254709543.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/085369ce4bdb0ea48baddbcc95797407-891995985381.JPEG",
+            "isCustomized": false,
+            "mrp": 4223,
+            "name": "Black Women Fashion Sexy Slim Keyhole Long Sleeve Solid T-Shirt Top",
+            "price": 2678,
+            "sku": "BlackWomenFashionSexySlimKeyholeLongSleeveSolidT-ShirtTop-undefined",
+            "slug": "black-women-fashion-sexy-slim-keyhole-long-sleeve-solid-t-shirt-top",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc935f",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/bee421f19aa7b776cc0a084aa647fbb6-138507240393.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/88074591c2b49ba7cf79965a37758bee-1260882900163.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/cac4e95429e341418df3b0bd4eda6dae-592575358617.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/43c628c927dfd58217c2b0ef75a04603-1115688067015.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/b3c6e6949c7f0b43302acbb9f3e54861-186281747305.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/bee421f19aa7b776cc0a084aa647fbb6-138507240393.JPEG",
+            "isCustomized": false,
+            "mrp": 4384,
+            "name": "Gray New Women Casual V-Neck Long Sleeve Solid Lace-up Elbow Patch T-Shirt Top",
+            "price": 3171,
+            "sku": "GrayNewWomenCasualV-NeckLongSleeveSolidLace-upElbowPatchT-ShirtTop-undefined",
+            "slug": "gray-new-women-casual-v-neck-long-sleeve-solid-lace-up-elbow-patch-t-shirt-top",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc935e",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/a6d88cec31f76b09b0f162b77961d6da-629805850685.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/88074591c2b49ba7cf79965a37758bee-1415411719949.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/cac4e95429e341418df3b0bd4eda6dae-1565907800524.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/43c628c927dfd58217c2b0ef75a04603-753890028460.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/b3c6e6949c7f0b43302acbb9f3e54861-518459798013.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/a6d88cec31f76b09b0f162b77961d6da-629805850685.JPEG",
+            "isCustomized": false,
+            "mrp": 4384,
+            "name": "Navy Blue New Women Casual V-Neck Long Sleeve Solid Lace-up Elbow Patch T-Shirt Top",
+            "price": 3171,
+            "sku": "NavyBlueNewWomenCasualV-NeckLongSleeveSolidLace-upElbowPatchT-ShirtTop-undefined",
+            "slug": "navy-blue-new-women-casual-v-neck-long-sleeve-solid-lace-up-elbow-patch-t-shirt-top",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9346",
+            "category": {
+                "_id": "6405e37ad1e27517b19662da",
+                "img": null,
+                "link": "/fashion",
+                "name": "Fashion",
+                "namePath": null,
+                "namePathA": [],
+                "slug": "fashion"
+            },
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/3c2d1ba9f7c93326a6d38b921405e9e7-1531595308964.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/d0feacc52e9be7ed092dc2b0914a203b-1028038331100.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/631fb57e2fc35ddbaca70e95e3acab82-1105545607653.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/7317aa55aa28e0b41f9210f02cd74661-1526580288095.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/c4501430473f809b1e4c0d853349ca40-1483042794193.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/3c2d1ba9f7c93326a6d38b921405e9e7-1531595308964.JPEG",
+            "isCustomized": false,
+            "mrp": 5317,
+            "name": "White Women V-Neck Strappy Cut Out Long Sleeve Solid Casual T-Shirt Top",
+            "price": 2903,
+            "sku": "WhiteWomenV-NeckStrappyCutOutLongSleeveSolidCasualT-ShirtTop-undefined",
+            "slug": "white-women-v-neck-strappy-cut-out-long-sleeve-solid-casual-t-shirt-top-en",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc933f",
+            "category": {
+                "_id": "6405e37ad1e27517b19662da",
+                "img": null,
+                "link": "/fashion",
+                "name": "Fashion",
+                "namePath": null,
+                "namePathA": [],
+                "slug": "fashion"
+            },
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/e5c3c0dd1bc7f2e2ee14034c6b2b1ca1-1168527488612.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/0b0853707bb6e2d38c0f31571b021acc-321128187392.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/50319865e6c8a59aec2d90f40667df15-982110821175.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/6923ca03403ca0c68ab1a858ccd58f32-800417109705.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/a091d3ebbd78ea4bcd7ccb93dfaf1a74-166336451038.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/e5c3c0dd1bc7f2e2ee14034c6b2b1ca1-1168527488612.JPEG",
+            "isCustomized": false,
+            "mrp": 5119,
+            "name": "White New Fashion Women Casual Loose Comft Fit V-Neck Short Sleeve Basic Solid T-Shirt",
+            "price": 2811,
+            "sku": "WhiteNewFashionWomenCasualLooseComftFitV-NeckShortSleeveBasicSolidT-Shirt-undefined",
+            "slug": "white-new-fashion-women-casual-loose-comft-fit-v-neck-short-sleeve-basic-solid-t-shirt",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9338",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/45a3a0c45a4a84003e6fd775e37880bb-644842028916.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/34e03e23f5f3aae636426721860b894e-935078442549.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/1bdb29c256f3c4b487dd7bf56313e644-208779921649.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/dc49900853b949d827f0a3ecbb7c42e4-747462743203.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/5f1007dafc3aa6cca2a667070bbdd7fa-600830503255.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/45a3a0c45a4a84003e6fd775e37880bb-644842028916.JPEG",
+            "isCustomized": false,
+            "mrp": 4825,
+            "name": "Gray(Print 3) New Women Casual O-Neck Short Cuffed Sleeve Letter Prints Pullover T-Shirt",
+            "price": 2672,
+            "sku": "Gray(Print3)NewWomenCasualO-NeckShortCuffedSleeveLetterPrintsPulloverT-Shirt-undefined",
+            "slug": "grayprint-3-new-women-casual-o-neck-short-cuffed-sleeve-letter-prints-pullover-t-shirt",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9350",
+            "category": {
+                "_id": "6405e37ad1e27517b19662da",
+                "img": null,
+                "link": "/fashion",
+                "name": "Fashion",
+                "namePath": null,
+                "namePathA": [],
+                "slug": "fashion"
+            },
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/05dfadf26700683cf45250f31638db2c-1107671720627.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/053ceb8fffee942c173a30fbdbebc158-1542856042268.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/a2f97c56c34457aa9a48e081447f702f-591440804250.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/f3f11c37545ddc9077ea052ad4b92a69-113469277924.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/9e7d76481caaddc5c103f083832c2785-790861935231.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/05dfadf26700683cf45250f31638db2c-1107671720627.JPEG",
+            "isCustomized": false,
+            "mrp": 4891,
+            "name": "Army Green Women Casual Round Neck Raglan Short Sleeve Contrast Color Patchwork Pineapple Print T-Shirt Tees",
+            "price": 3073,
+            "sku": "ArmyGreenWomenCasualRoundNeckRaglanShortSleeveContrastColorPatchworkPineapplePrintT-ShirtTees-undefined",
+            "slug": "army-green-women-casual-round-neck-raglan-short-sleeve-contrast-color-patchwork-pineapple-print-t-shirt-tees",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc938a",
+            "category": {
+                "_id": "6405e37ad1e27517b19662da",
+                "img": null,
+                "link": "/fashion",
+                "name": "Fashion",
+                "namePath": null,
+                "namePathA": [],
+                "slug": "fashion"
+            },
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/da088315cac0883c577ccda076fc66d3-551327101258.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/8548b2997b5b0e842573e6e26606129a-648082714061.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/c93e0becc5b5200c916858ee757612c9-601073314684.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/00668bd128fd7b380d44ff067c61ecd5-495768518536.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/557d8ab012acf42b389befe1d627fe5e-832931031928.JPEG",
+                "https://litekart.b-cdn.net/litekart/reel-5.mp4"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/da088315cac0883c577ccda076fc66d3-551327101258.JPEG",
+            "isCustomized": false,
+            "mrp": 4606,
+            "name": "Black Women Casual Long Sleeve V Neck Patchwork Slim Pullover T Shirt",
+            "price": 3324,
+            "sku": "BlackWomenCasualLongSleeveVNeckPatchworkSlimPulloverTShirt-undefined",
+            "slug": "black-women-casual-long-sleeve-v-neck-patchwork-slim-pullover-t-shirt",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9389",
+            "category": {
+                "_id": "6405e37ad1e27517b19662da",
+                "img": null,
+                "link": "/fashion",
+                "name": "Fashion",
+                "namePath": null,
+                "namePathA": [],
+                "slug": "fashion"
+            },
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/0020ab05d79769ba508b441283128e90-1425220940500.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/8548b2997b5b0e842573e6e26606129a-355225813597.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/c93e0becc5b5200c916858ee757612c9-605154946792.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/00668bd128fd7b380d44ff067c61ecd5-843860298531.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/557d8ab012acf42b389befe1d627fe5e-293477656737.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/0020ab05d79769ba508b441283128e90-1425220940500.JPEG",
+            "isCustomized": false,
+            "mrp": 4606,
+            "name": "Khaki Women Casual Long Sleeve V Neck Patchwork Slim Pullover T Shirt",
+            "price": 3324,
+            "sku": "KhakiWomenCasualLongSleeveVNeckPatchworkSlimPulloverTShirt-undefined",
+            "slug": "khaki-women-casual-long-sleeve-v-neck-patchwork-slim-pullover-t-shirt-en",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9388",
+            "category": {
+                "_id": "6405e37ad1e27517b19662da",
+                "img": null,
+                "link": "/fashion",
+                "name": "Fashion",
+                "namePath": null,
+                "namePathA": [],
+                "slug": "fashion"
+            },
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/aa205a913239583243b298f27ab8470f-638979953173.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/8548b2997b5b0e842573e6e26606129a-539346350470.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/c93e0becc5b5200c916858ee757612c9-329682149215.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/00668bd128fd7b380d44ff067c61ecd5-230209894798.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/557d8ab012acf42b389befe1d627fe5e-866577678440.JPEG",
+                "https://litekart.b-cdn.net/litekart/reel-11.mp4"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/aa205a913239583243b298f27ab8470f-638979953173.JPEG",
+            "isCustomized": false,
+            "mrp": 4606,
+            "name": "Pastel Pink Women Casual Long Sleeve V Neck Patchwork Slim Pullover T Shirt",
+            "price": 3324,
+            "sku": "PastelPinkWomenCasualLongSleeveVNeckPatchworkSlimPulloverTShirt-undefined",
+            "slug": "pastel-pink-women-casual-long-sleeve-v-neck-patchwork-slim-pullover-t-shirt-en",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9384",
+            "category": {
+                "_id": "6405e37ad1e27517b19662da",
+                "img": null,
+                "link": "/fashion",
+                "name": "Fashion",
+                "namePath": null,
+                "namePathA": [],
+                "slug": "fashion"
+            },
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/c7ca5033cda7677a7a25252ee704e5fc-1359394657074.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/9c60d9a5e934b801e2cb362d880e9146-575552922616.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/156bff2e8527aa921fbbfa0bb981d7c9-1424234588674.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/bb504e48a06fa29cd04debd012f6f256-271882841163.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/a50d085018baf8765e87739cf0dd0198-188388157066.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/c7ca5033cda7677a7a25252ee704e5fc-1359394657074.JPEG",
+            "isCustomized": false,
+            "mrp": 4519,
+            "name": "Black New Women Casual O-Neck Long Sleeve Patchwork Elastic T-Shirt",
+            "price": 3265,
+            "sku": "BlackNewWomenCasualO-NeckLongSleevePatchworkElasticT-Shirt-undefined",
+            "slug": "black-new-women-casual-o-neck-long-sleeve-patchwork-elastic-t-shirt",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9383",
+            "category": {
+                "_id": "6405e37ad1e27517b19662da",
+                "img": null,
+                "link": "/fashion",
+                "name": "Fashion",
+                "namePath": null,
+                "namePathA": [],
+                "slug": "fashion"
+            },
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/c80b3cdb309737d86d1b6ac50aad270c-832785539355.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/9c60d9a5e934b801e2cb362d880e9146-1495074136080.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/156bff2e8527aa921fbbfa0bb981d7c9-357685796620.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/bb504e48a06fa29cd04debd012f6f256-1278391873001.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/a50d085018baf8765e87739cf0dd0198-280888032135.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/c80b3cdb309737d86d1b6ac50aad270c-832785539355.JPEG",
+            "isCustomized": false,
+            "mrp": 4519,
+            "name": "Blue New Women Casual O-Neck Long Sleeve Patchwork Elastic T-Shirt",
+            "price": 3265,
+            "sku": "BlueNewWomenCasualO-NeckLongSleevePatchworkElasticT-Shirt-undefined",
+            "slug": "blue-new-women-casual-o-neck-long-sleeve-patchwork-elastic-t-shirt-en",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc933e",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/a59dd9ebab2f9cee359547ba4ea58030-386416871643.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/0b0853707bb6e2d38c0f31571b021acc-604106377151.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/50319865e6c8a59aec2d90f40667df15-433696899029.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/6923ca03403ca0c68ab1a858ccd58f32-1247109948571.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/a091d3ebbd78ea4bcd7ccb93dfaf1a74-1135263451055.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/a59dd9ebab2f9cee359547ba4ea58030-386416871643.JPEG",
+            "isCustomized": false,
+            "mrp": 5119,
+            "name": "Army Green New Fashion Women Casual Loose Comft Fit V-Neck Short Sleeve Basic Solid T-Shirt",
+            "price": 2811,
+            "sku": "ArmyGreenNewFashionWomenCasualLooseComftFitV-NeckShortSleeveBasicSolidT-Shirt-undefined",
+            "slug": "army-green-new-fashion-women-casual-loose-comft-fit-v-neck-short-sleeve-basic-solid-t-shirt-en",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc933d",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/9b3a31db79c7276fd82e86ff18e65a23-237191309641.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/34e03e23f5f3aae636426721860b894e-1287713069645.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/1bdb29c256f3c4b487dd7bf56313e644-458201805067.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/dc49900853b949d827f0a3ecbb7c42e4-963853915120.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/5f1007dafc3aa6cca2a667070bbdd7fa-1401603269234.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/9b3a31db79c7276fd82e86ff18e65a23-237191309641.JPEG",
+            "isCustomized": false,
+            "mrp": 4825,
+            "name": "Black(Print 1) New Women Casual O-Neck Short Cuffed Sleeve Letter Prints Pullover T-Shirt",
+            "price": 2672,
+            "sku": "Black(Print1)NewWomenCasualO-NeckShortCuffedSleeveLetterPrintsPulloverT-Shirt-undefined",
+            "slug": "blackprint-1-new-women-casual-o-neck-short-cuffed-sleeve-letter-prints-pullover-t-shirt-en",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc933c",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/bd7560d15b95ca1dd2236702f4e8790a-1227624887963.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/34e03e23f5f3aae636426721860b894e-219897154193.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/1bdb29c256f3c4b487dd7bf56313e644-1257508015587.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/dc49900853b949d827f0a3ecbb7c42e4-1160029770774.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/5f1007dafc3aa6cca2a667070bbdd7fa-881210715887.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/bd7560d15b95ca1dd2236702f4e8790a-1227624887963.JPEG",
+            "isCustomized": false,
+            "mrp": 4825,
+            "name": "Black(Print 2) New Women Casual O-Neck Short Cuffed Sleeve Letter Prints Pullover T-Shirt",
+            "price": 2672,
+            "sku": "Black(Print2)NewWomenCasualO-NeckShortCuffedSleeveLetterPrintsPulloverT-Shirt-undefined",
+            "slug": "blackprint-2-new-women-casual-o-neck-short-cuffed-sleeve-letter-prints-pullover-t-shirt",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc933b",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/11ff489f215bc54c048d2182ac7726bf-779916899073.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/34e03e23f5f3aae636426721860b894e-660591637512.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/1bdb29c256f3c4b487dd7bf56313e644-1311687671092.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/dc49900853b949d827f0a3ecbb7c42e4-450678297632.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/5f1007dafc3aa6cca2a667070bbdd7fa-1388531296306.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/11ff489f215bc54c048d2182ac7726bf-779916899073.JPEG",
+            "isCustomized": false,
+            "mrp": 4825,
+            "name": "Black(Print 3) New Women Casual O-Neck Short Cuffed Sleeve Letter Prints Pullover T-Shirt",
+            "price": 2672,
+            "sku": "Black(Print3)NewWomenCasualO-NeckShortCuffedSleeveLetterPrintsPulloverT-Shirt-undefined",
+            "slug": "blackprint-3-new-women-casual-o-neck-short-cuffed-sleeve-letter-prints-pullover-t-shirt-en",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9386",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/e18f5ac50b9fc32f91860fb6da1b40de-886428348229.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/d84644e42534b59a070deba42d786c51-1081169136090.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/89b3871d9fd23b6a95729cfb43309960-334128455723.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/ccec6b508b334bc0001e01c9b5811833-476001040080.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/c0eba657f251d6352889b28e20c31418-774892509342.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/e18f5ac50b9fc32f91860fb6da1b40de-886428348229.JPEG",
+            "isCustomized": false,
+            "mrp": 3929,
+            "name": "Black New Women Casual V-Neck 3/4 Sleeve Patchwork Contrast Color T-Shirt",
+            "price": 2861,
+            "sku": "BlackNewWomenCasualV-Neck3/4SleevePatchworkContrastColorT-Shirt-undefined",
+            "slug": "black-new-women-casual-v-neck-34-sleeve-patchwork-contrast-color-t-shirt",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9352",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/86601aa1ef5e3d0d13936995106f482f-1007958043167.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/8d9b407b84d067430e1f5306630a7e1b-375440766541.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/cf793fdae7c4be9dd7114d3784b2ddbc-1049672051808.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/5cf5c9d14ac7d5abaf9ac757e4872cf8-1193766032586.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/4bda7aa24a200d75606af9d25c349169-431959896367.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/86601aa1ef5e3d0d13936995106f482f-1007958043167.JPEG",
+            "isCustomized": false,
+            "mrp": 4268,
+            "name": "Black Women's Round Neck Short Sleeve Print Casual Basic T-Shirt Tops",
+            "price": 2723,
+            "sku": "BlackWomen'sRoundNeckShortSleevePrintCasualBasicT-ShirtTops-undefined",
+            "slug": "black-womens-round-neck-short-sleeve-print-casual-basic-t-shirt-tops-en",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc934f",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/8d95cda32064d0a19833ddbe1b2903ab-324887208595.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/053ceb8fffee942c173a30fbdbebc158-939103149355.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/a2f97c56c34457aa9a48e081447f702f-1064508262983.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/f3f11c37545ddc9077ea052ad4b92a69-754740575242.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/9e7d76481caaddc5c103f083832c2785-25584152796.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/8d95cda32064d0a19833ddbe1b2903ab-324887208595.JPEG",
+            "isCustomized": false,
+            "mrp": 4891,
+            "name": "Black Women Casual Round Neck Raglan Short Sleeve Contrast Color Patchwork Pineapple Print T-Shirt Tees",
+            "price": 3073,
+            "sku": "BlackWomenCasualRoundNeckRaglanShortSleeveContrastColorPatchworkPineapplePrintT-ShirtTees-undefined",
+            "slug": "black-women-casual-round-neck-raglan-short-sleeve-contrast-color-patchwork-pineapple-print-t-shirt-tees",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9387",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/1e424271fd157e90c522ed1481c95cf5-965662219083.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/8548b2997b5b0e842573e6e26606129a-1191983942326.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/c93e0becc5b5200c916858ee757612c9-1435943575582.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/00668bd128fd7b380d44ff067c61ecd5-330455811505.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/557d8ab012acf42b389befe1d627fe5e-1480349632372.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/1e424271fd157e90c522ed1481c95cf5-965662219083.JPEG",
+            "isCustomized": false,
+            "mrp": 4606,
+            "name": "Blue Women Casual Long Sleeve V Neck Patchwork Slim Pullover T Shirt",
+            "price": 3324,
+            "sku": "BlueWomenCasualLongSleeveVNeckPatchworkSlimPulloverTShirt-undefined",
+            "slug": "blue-women-casual-long-sleeve-v-neck-patchwork-slim-pullover-t-shirt-en",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9375",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/e6f14efddfa1e70d1560aeab7cd50f4e-657794856814.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/dce2be2e0a07a3a818eae8d0c5647cef-260514251746.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/17bfd40fba108552925ce9e0f8179f70-1448801927820.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/fb2777c9394eda2d4b9b4814f3f157c4-493505192138.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/b6c4a346efad3048ba43bfe1f71b7c77-91345943054.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/e6f14efddfa1e70d1560aeab7cd50f4e-657794856814.JPEG",
+            "isCustomized": false,
+            "mrp": 2343,
+            "name": "Coffee New Women Winter Arm Warmers Half Finger Knitted Fingerless Gloves",
+            "price": 1779,
+            "sku": "CoffeeNewWomenWinterArmWarmersHalfFingerKnittedFingerlessGloves-undefined",
+            "slug": "coffee-new-women-winter-arm-warmers-half-finger-knitted-fingerless-gloves-en",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc933a",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/aab3c361e23f6f63f9f98d1d1e712f31-1181795282927.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/34e03e23f5f3aae636426721860b894e-128482066153.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/1bdb29c256f3c4b487dd7bf56313e644-1355544787659.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/dc49900853b949d827f0a3ecbb7c42e4-803450440532.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/5f1007dafc3aa6cca2a667070bbdd7fa-98468426759.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/aab3c361e23f6f63f9f98d1d1e712f31-1181795282927.JPEG",
+            "isCustomized": false,
+            "mrp": 4825,
+            "name": "Gray(Print 1) New Women Casual O-Neck Short Cuffed Sleeve Letter Prints Pullover T-Shirt",
+            "price": 2672,
+            "sku": "Gray(Print1)NewWomenCasualO-NeckShortCuffedSleeveLetterPrintsPulloverT-Shirt-undefined",
+            "slug": "grayprint-1-new-women-casual-o-neck-short-cuffed-sleeve-letter-prints-pullover-t-shirt",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9339",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/d0dc90ffd0b70b2a8676841701b293c0-1514988153469.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/34e03e23f5f3aae636426721860b894e-392634157228.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/1bdb29c256f3c4b487dd7bf56313e644-105466431180.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/dc49900853b949d827f0a3ecbb7c42e4-711475730073.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/5f1007dafc3aa6cca2a667070bbdd7fa-566529446208.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/d0dc90ffd0b70b2a8676841701b293c0-1514988153469.JPEG",
+            "isCustomized": false,
+            "mrp": 4825,
+            "name": "Gray(Print 2) New Women Casual O-Neck Short Cuffed Sleeve Letter Prints Pullover T-Shirt",
+            "price": 2672,
+            "sku": "Gray(Print2)NewWomenCasualO-NeckShortCuffedSleeveLetterPrintsPulloverT-Shirt-undefined",
+            "slug": "grayprint-2-new-women-casual-o-neck-short-cuffed-sleeve-letter-prints-pullover-t-shirt",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9374",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/db18c94b42b3c7d546a8684c13b6619c-781069811864.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/dce2be2e0a07a3a818eae8d0c5647cef-1307166245036.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/17bfd40fba108552925ce9e0f8179f70-597692932287.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/fb2777c9394eda2d4b9b4814f3f157c4-673858235262.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/b6c4a346efad3048ba43bfe1f71b7c77-489316845318.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/db18c94b42b3c7d546a8684c13b6619c-781069811864.JPEG",
+            "isCustomized": false,
+            "mrp": 2343,
+            "name": "Gray New Women Winter Arm Warmers Half Finger Knitted Fingerless Gloves",
+            "price": 1779,
+            "sku": "GrayNewWomenWinterArmWarmersHalfFingerKnittedFingerlessGloves-undefined",
+            "slug": "gray-new-women-winter-arm-warmers-half-finger-knitted-fingerless-gloves",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc934e",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/4fb63768ff325c9f268168f2821984bb-782924649653.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/053ceb8fffee942c173a30fbdbebc158-1215209903837.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/a2f97c56c34457aa9a48e081447f702f-301418260258.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/f3f11c37545ddc9077ea052ad4b92a69-93614724978.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/9e7d76481caaddc5c103f083832c2785-966723154713.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/4fb63768ff325c9f268168f2821984bb-782924649653.JPEG",
+            "isCustomized": false,
+            "mrp": 4891,
+            "name": "Khaki Women Casual Round Neck Raglan Short Sleeve Contrast Color Patchwork Pineapple Print T-Shirt Tees",
+            "price": 3073,
+            "sku": "KhakiWomenCasualRoundNeckRaglanShortSleeveContrastColorPatchworkPineapplePrintT-ShirtTees-undefined",
+            "slug": "khaki-women-casual-round-neck-raglan-short-sleeve-contrast-color-patchwork-pineapple-print-t-shirt-tees",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9385",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/ac85e09ee37140b36c81718b3bcf39b2-1204771374528.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/d84644e42534b59a070deba42d786c51-394194305146.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/89b3871d9fd23b6a95729cfb43309960-373120349533.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/ccec6b508b334bc0001e01c9b5811833-331389732901.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/c0eba657f251d6352889b28e20c31418-1371365521862.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/ac85e09ee37140b36c81718b3bcf39b2-1204771374528.JPEG",
+            "isCustomized": false,
+            "mrp": 3929,
+            "name": "Navy Blue New Women Casual V-Neck 3/4 Sleeve Patchwork Contrast Color T-Shirt",
+            "price": 2861,
+            "sku": "NavyBlueNewWomenCasualV-Neck3/4SleevePatchworkContrastColorT-Shirt-undefined",
+            "slug": "navy-blue-new-women-casual-v-neck-34-sleeve-patchwork-contrast-color-t-shirt-en",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9351",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/ad020376a9ca6c4c81f0dc8a952524cd-132602366077.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/8d9b407b84d067430e1f5306630a7e1b-809882375221.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/cf793fdae7c4be9dd7114d3784b2ddbc-950316125459.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/5cf5c9d14ac7d5abaf9ac757e4872cf8-333062998506.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/4bda7aa24a200d75606af9d25c349169-848957227011.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/ad020376a9ca6c4c81f0dc8a952524cd-132602366077.JPEG",
+            "isCustomized": false,
+            "mrp": 4268,
+            "name": "White Women's Round Neck Short Sleeve Print Casual Basic T-Shirt Tops",
+            "price": 2723,
+            "sku": "WhiteWomen'sRoundNeckShortSleevePrintCasualBasicT-ShirtTops-undefined",
+            "slug": "white-womens-round-neck-short-sleeve-print-casual-basic-t-shirt-tops",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc932f",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/9bddea8c5ad1e4dea1b7e4b7872492e8-456165512840.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/4d6b88cf11e7cc2c5f78c2606ca6a5e0-1468773435294.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/1911a68f7ef468a9f352fc3aa015e03a-287945435027.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/a1c0a56652739e9f7a5a6a64e02d022a-440706832449.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/b95a270396b77a461a00399a84afdd44-1347840557665.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/9bddea8c5ad1e4dea1b7e4b7872492e8-456165512840.JPEG",
+            "isCustomized": false,
+            "mrp": 5271,
+            "name": "Red Women Casual Round Neck Short Sleeve Striped Tunic T-Shirt Top",
+            "price": 2882,
+            "sku": "RedWomenCasualRoundNeckShortSleeveStripedTunicT-ShirtTop-undefined",
+            "slug": "red-women-casual-round-neck-short-sleeve-striped-tunic-t-shirt-top",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9381",
+            "category": {
+                "_id": "6405e37ad1e27517b19662da",
+                "img": null,
+                "link": "/fashion",
+                "name": "Fashion",
+                "namePath": null,
+                "namePathA": [],
+                "slug": "fashion"
+            },
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/e4cbf5bab1890dc535ca5ad860d04238-937875815534.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/863a2fda9541c522df6b9acbe70ccc22-90798166262.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/da8b6538f54f565b3e3d41490d56fd0a-432626758587.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/ed43e07b5d71ba0092efe5f780d15d91-770786530196.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/eade5eb3711b7c0b6d0ca4fa228ff069-141316905758.JPEG",
+                "https://litekart.b-cdn.net/litekart/reel-1.mp4"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/e4cbf5bab1890dc535ca5ad860d04238-937875815534.JPEG",
+            "isCustomized": false,
+            "mrp": 3778,
+            "name": "Sexy Women Lace Up O-Neck Cut Out Long Sleeve Solid Slim Fit",
+            "price": 2758,
+            "sku": "SexyWomenLaceUpO-NeckCutOutLongSleeveSolidSlimFit-undefined",
+            "slug": "sexy-women-lace-up-o-neck-cut-out-long-sleeve-solid-slim-fit-en",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9330",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/927c59945103d4dbd369d87c174c1593-1562055618107.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/4d6b88cf11e7cc2c5f78c2606ca6a5e0-1409032375159.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/1911a68f7ef468a9f352fc3aa015e03a-950154530221.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/a1c0a56652739e9f7a5a6a64e02d022a-1117079938278.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/b95a270396b77a461a00399a84afdd44-1528666906681.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/927c59945103d4dbd369d87c174c1593-1562055618107.JPEG",
+            "isCustomized": false,
+            "mrp": 5271,
+            "name": "Black Women Casual Round Neck Short Sleeve Striped Tunic T-Shirt Top",
+            "price": 2882,
+            "sku": "BlackWomenCasualRoundNeckShortSleeveStripedTunicT-ShirtTop-undefined",
+            "slug": "black-women-casual-round-neck-short-sleeve-striped-tunic-t-shirt-top-en",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9331",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/ee426cf1d62a6c9eb9f5f837002b6bf3-1095479221907.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/fd240226f1cc5295aa47e308ed06fa87-269635811596.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/351b753436682b0929305a735b179aaa-1383486354581.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/1c6f499d078cc06410a0ec2ddf31539c-359834016920.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/541d95760b7b6a400ddfe1efd3fb101a-1494195000347.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/ee426cf1d62a6c9eb9f5f837002b6bf3-1095479221907.JPEG",
+            "isCustomized": false,
+            "mrp": 6512,
+            "name": "Black Women Loose O-Neck Bat Sleeve Cold Shoulder Irregular Hem T-Shirt Basic Tee",
+            "price": 3462,
+            "sku": "BlackWomenLooseO-NeckBatSleeveColdShoulderIrregularHemT-ShirtBasicTee-undefined",
+            "slug": "black-women-loose-o-neck-bat-sleeve-cold-shoulder-irregular-hem-t-shirt-basic-tee",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9333",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/632d29d1cb2c27998aeeffc0b5753e19-711589011612.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/fd240226f1cc5295aa47e308ed06fa87-150226150625.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/351b753436682b0929305a735b179aaa-1291841190953.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/1c6f499d078cc06410a0ec2ddf31539c-531293954426.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/541d95760b7b6a400ddfe1efd3fb101a-911395245878.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/632d29d1cb2c27998aeeffc0b5753e19-711589011612.JPEG",
+            "isCustomized": false,
+            "mrp": 6512,
+            "name": "Army green Women Loose O-Neck Bat Sleeve Cold Shoulder Irregular Hem T-Shirt Basic Tee",
+            "price": 3462,
+            "sku": "ArmygreenWomenLooseO-NeckBatSleeveColdShoulderIrregularHemT-ShirtBasicTee-undefined",
+            "slug": "army-green-women-loose-o-neck-bat-sleeve-cold-shoulder-irregular-hem-t-shirt-basic-tee",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9332",
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/e528cb4204ef5b720ed5484849d709ab-385703887883.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/fd240226f1cc5295aa47e308ed06fa87-705153786481.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/351b753436682b0929305a735b179aaa-1220772102696.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/1c6f499d078cc06410a0ec2ddf31539c-785742905139.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/541d95760b7b6a400ddfe1efd3fb101a-648930992700.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/e528cb4204ef5b720ed5484849d709ab-385703887883.JPEG",
+            "isCustomized": false,
+            "mrp": 6512,
+            "name": "Blue Women Loose O-Neck Bat Sleeve Cold Shoulder Irregular Hem T-Shirt Basic Tee",
+            "price": 3462,
+            "sku": "BlueWomenLooseO-NeckBatSleeveColdShoulderIrregularHemT-ShirtBasicTee-undefined",
+            "slug": "blue-women-loose-o-neck-bat-sleeve-cold-shoulder-irregular-hem-t-shirt-basic-tee-en",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        },
+        {
+            "_id": "645da3c21bf1d31fe2bc9365",
+            "category": {
+                "_id": "6405e37ad1e27517b19662da",
+                "img": null,
+                "link": "/fashion",
+                "name": "Fashion",
+                "namePath": null,
+                "namePathA": [],
+                "slug": "fashion"
+            },
+            "hasStock": true,
+            "images": [
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/2725915ec62870eb8958824d243e09f2-1080199968648.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/333d4a74c5c52337fbf81c25cc43aabe-499795639515.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/6b654e0420215ef9567219c758af3db0-264962159736.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/d427ac9628b597041a151f3f41247ded-1404354837926.JPEG",
+                "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/34f91587ff3137bc0e9098562b7c45da-1459947381245.JPEG"
+            ],
+            "img": "https://s3.ap-south-1.amazonaws.com/litekart.in/images/product/women/2725915ec62870eb8958824d243e09f2-1080199968648.JPEG",
+            "isCustomized": false,
+            "mrp": 4257,
+            "name": "Red New Women Casual O-Neck Flare Sleeve Back Lace Up Blouse Tops",
+            "price": 3087,
+            "sku": "RedNewWomenCasualO-NeckFlareSleeveBackLaceUpBlouseTops-undefined",
+            "slug": "red-new-women-casual-o-neck-flare-sleeve-back-lace-up-blouse-tops",
+            "tags": [],
+            "vendor": {
+                "_id": "638d6a28de0a19efe979d36b",
+                "businessName": "Fashion Gallery",
+                "email": "admin@litekart.in",
+                "name": "Swadesh Behera",
+                "phone": "4545454545",
+                "slug": "misiki-admin"
+            }
+        }
+    ],
+    "facets": {
+        "style_count": {
+            "value": 180
+        },
+        "all_aggs": {
+            "doc_count": 918,
+            "materials": {
+                "doc_count": 181,
+                "all": {
+                    "doc_count_error_upper_bound": 0,
+                    "sum_other_doc_count": 0,
+                    "buckets": [
+                        {
+                            "key": "Hard Cover",
+                            "doc_count": 1
+                        }
+                    ]
+                }
+            },
+            "price": {
+                "doc_count": 181,
+                "all": {
+                    "buckets": [
+                        {
+                            "key": "Under $250",
+                            "to": 250,
+                            "doc_count": 97
+                        },
+                        {
+                            "key": "₹250 - ₹500",
+                            "from": 250,
+                            "to": 500,
+                            "doc_count": 0
+                        },
+                        {
+                            "key": "₹500 - ₹1,000",
+                            "from": 500,
+                            "to": 1000,
+                            "doc_count": 0
+                        },
+                        {
+                            "key": "₹1,000 - ₹2,000",
+                            "from": 1000,
+                            "to": 2000,
+                            "doc_count": 2
+                        },
+                        {
+                            "key": "₹2,000 - ₹3,000",
+                            "from": 2000,
+                            "to": 3000,
+                            "doc_count": 23
+                        },
+                        {
+                            "key": "₹3,000 - ₹5,000",
+                            "from": 3000,
+                            "to": 5000,
+                            "doc_count": 56
+                        },
+                        {
+                            "key": "Over ₹5,000",
+                            "from": 5000,
+                            "doc_count": 3
+                        }
+                    ]
+                }
+            },
+            "discount": {
+                "doc_count": 181,
+                "all": {
+                    "buckets": [
+                        {
+                            "key": "Any",
+                            "from": 0,
+                            "to": 100,
+                            "doc_count": 181
+                        },
+                        {
+                            "key": "10% and above",
+                            "from": 10,
+                            "to": 100,
+                            "doc_count": 180
+                        },
+                        {
+                            "key": "20% and above",
+                            "from": 20,
+                            "to": 100,
+                            "doc_count": 180
+                        },
+                        {
+                            "key": "30% and above",
+                            "from": 30,
+                            "to": 100,
+                            "doc_count": 137
+                        },
+                        {
+                            "key": "40% and above",
+                            "from": 40,
+                            "to": 100,
+                            "doc_count": 121
+                        },
+                        {
+                            "key": "50% and above",
+                            "from": 50,
+                            "to": 100,
+                            "doc_count": 96
+                        },
+                        {
+                            "key": "60% and above",
+                            "from": 60,
+                            "to": 100,
+                            "doc_count": 96
+                        }
+                    ]
+                }
+            },
+            "active": {
+                "doc_count": 181,
+                "all": {
+                    "doc_count_error_upper_bound": 0,
+                    "sum_other_doc_count": 0,
+                    "buckets": [
+                        {
+                            "key": 1,
+                            "key_as_string": "true",
+                            "doc_count": 181
+                        }
+                    ]
+                }
+            },
+            "genders": {
+                "doc_count": 181,
+                "all": {
+                    "doc_count_error_upper_bound": 0,
+                    "sum_other_doc_count": 0,
+                    "buckets": [
+                        {
+                            "key": "male",
+                            "doc_count": 1
+                        },
+                        {
+                            "key": "unisex",
+                            "doc_count": 95
+                        }
+                    ]
+                }
+            },
+            "attributes": {
+                "doc_count": 181,
+                "all": {
+                    "doc_count": 0,
+                    "key": {
+                        "doc_count_error_upper_bound": 0,
+                        "sum_other_doc_count": 0,
+                        "buckets": []
+                    }
+                }
+            },
+            "categories": {
+                "doc_count": 181,
+                "all": {
+                    "doc_count_error_upper_bound": 0,
+                    "sum_other_doc_count": 0,
+                    "buckets": [
+                        {
+                            "key": "books-en-en",
+                            "doc_count": 3
+                        },
+                        {
+                            "key": "electronics",
+                            "doc_count": 4
+                        },
+                        {
+                            "key": "fashion",
+                            "doc_count": 35
+                        },
+                        {
+                            "key": "fashion-men",
+                            "doc_count": 35
+                        },
+                        {
+                            "key": "fashion-women",
+                            "doc_count": 36
+                        },
+                        {
+                            "key": "furniture-chair",
+                            "doc_count": 3
+                        },
+                        {
+                            "key": "home",
+                            "doc_count": 3
+                        },
+                        {
+                            "key": "home-furniture-en-en-en-en-en",
+                            "doc_count": 3
+                        },
+                        {
+                            "key": "women-cosmetic",
+                            "doc_count": 36
+                        },
+                        {
+                            "key": "women-jewellery",
+                            "doc_count": 36
+                        }
+                    ]
+                }
+            },
+            "colors": {
+                "doc_count": 181,
+                "all": {
+                    "doc_count_error_upper_bound": 0,
+                    "sum_other_doc_count": 0,
+                    "buckets": []
+                }
+            },
+            "tags": {
+                "doc_count": 181,
+                "all": {
+                    "doc_count_error_upper_bound": 0,
+                    "sum_other_doc_count": 0,
+                    "buckets": [
+                        {
+                            "key": "Most Selling",
+                            "doc_count": 1
+                        },
+                        {
+                            "key": "New",
+                            "doc_count": 2
+                        },
+                        {
+                            "key": "Popular",
+                            "doc_count": 1
+                        },
+                        {
+                            "key": "Recommended",
+                            "doc_count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
