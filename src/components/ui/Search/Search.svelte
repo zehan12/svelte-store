@@ -1,8 +1,9 @@
 <script>
     export let placeholder = "Search for something specific";
+    export let cls = "";
 </script>
 
-<div class="relative w-[22rem]">
+<div class={`relative w-[22rem ${cls}`}>
     <input
         type="search"
         {placeholder}
